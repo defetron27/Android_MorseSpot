@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "221805723374",
+    "firebase_url": "https://morsespot.firebaseio.com",
+    "project_id": "morsespot",
+    "storage_bucket": "morsespot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221805723374:android:b55336e0055e838e",
+        "android_client_info": {
+          "package_name": "com.def.max.morse_spot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221805723374-rt71n6llfcjkh61u8ani22di6ql7bcuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.def.max.morse_spot",
+            "certificate_hash": "c1fdf431c64b962bd1bf42ddd4e7255d01d76f6a"
+          }
+        },
+        {
+          "client_id": "221805723374-d1pb2bd0m75o0e88dcna501qkipd9jln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-PXc1rFKutWgHLxjdfMaCzPgnzIK404"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221805723374-d1pb2bd0m75o0e88dcna501qkipd9jln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
